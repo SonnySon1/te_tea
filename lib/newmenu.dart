@@ -60,7 +60,7 @@ class Newmenu extends StatelessWidget {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("Kategori Menu"),
+                          Text("Deskirpsi"),
                           TextField(
                             decoration: InputDecoration(
                               enabledBorder: OutlineInputBorder(
@@ -82,7 +82,7 @@ class Newmenu extends StatelessWidget {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text("Deskirpsi"),
+                          Text("Harga"),
                           TextField(
                             decoration: InputDecoration(
                               enabledBorder: OutlineInputBorder(
