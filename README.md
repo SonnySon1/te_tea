@@ -1,16 +1,23 @@
-# te_tea
+# 🎨 TETEA FE (Frontend UI Prototype)
 
-A new Flutter project.
+**TETEA FE** is the original user interface (UI) prototype for the TETEA application. Built using Flutter, this version focuses solely on the visual layout and navigation without integration to the backend (API). It serves as a foundational design before full API integration in [TETEA App](https://github.com/SonnySon1/tetea_app).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ⚙️ Built With
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**
+- **Dart**
+- **Basic navigation and UI components**
+- **Local mock data (no real API integration)**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚫 Not Connected to API
+
+This version **does not** use or connect to the [TETEA API](https://github.com/SonnySon1/tetea_api). It uses static or mock data for demonstration purposes only.
+
+For the full version with API features, see:  
+👉 [TETEA App (API-integrated version)](https://github.com/SonnySon1/tetea_app)
+
+---
